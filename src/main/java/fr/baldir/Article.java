@@ -2,7 +2,6 @@ package fr.baldir;
 
 import java.math.BigInteger;
 import java.util.List;
-import java.util.UUID;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

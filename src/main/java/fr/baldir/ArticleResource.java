@@ -1,10 +1,6 @@
 package fr.baldir;
 
-import static java.util.stream.Collectors.toList;
-
 import java.util.List;
-import java.util.UUID;
-import java.util.stream.Stream;
 
 import javax.inject.Inject;
 import javax.ws.rs.Consumes;
