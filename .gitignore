@@ -36,3 +36,6 @@ release.properties
 
 # logs
 *.log
+
+# h2 db
+.db/*
